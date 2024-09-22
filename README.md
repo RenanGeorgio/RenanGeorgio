@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renan Georgio</h1>
 <h3 align="center">A passionate Software engineer with extensive experience, leading large projects with diverse teams, and also a big researcher in the field of artificial intelligence</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renangeorgio" alt="renangeorgio" /></a> </p>
-
 - 👨‍💻 All of my PUBLIC projects are available at [https://portfolio.diamondbigger.com](https://portfolio.diamondbigger.com)
 
 - 💬 Ask me about **anything**
