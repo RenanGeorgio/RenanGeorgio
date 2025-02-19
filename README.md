@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Renan Georgio</h1>
 <h3 align="center">A passionate Software engineer with extensive experience, leading large projects with diverse teams, and also a big researcher in the field of artificial intelligence</h3>
 
-- 👨‍💻 All of my PUBLIC projects are available at [https://portfolio.diamondbigger.com](https://portfolio.diamondbigger.com)
+- 👨‍💻 All of my PUBLIC projects are available at [https://portfolio.diamondbigger.com](https://portfolio.diamondbigger.com) (under maintenance/offline)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **renangeorgio@gmail.com**
+- 📫 How to reach me **renangeorgio@supplyfy.com.br/renangeorgio@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renan-georgio-291406157](https://www.linkedin.com/in/renan-georgio-291406157)
 
